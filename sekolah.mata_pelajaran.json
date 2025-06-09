@@ -1,12 +1,5 @@
 [{
   "_id": {
-    "$oid": "6846eabee0e95b637d6c4bd2"
-  },
-  "nama_mapel": "kimia",
-  "kode_mapel": "KM202"
-},
-{
-  "_id": {
     "$oid": "6846eb80e0e95b637d6c4bd3"
   },
   "mata_pelajaran": "kimia",
