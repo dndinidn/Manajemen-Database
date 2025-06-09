@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68476886f36e5726236c4bd0"
+  },
+  "nama": "Pak Arif",
+  "mapel": "Matematika",
+  "umur": 45,
+  "pengalaman_tahun": 20
+},
+{
+  "_id": {
+    "$oid": "68476886f36e5726236c4bd1"
+  },
+  "nama": "Bu Siti",
+  "mapel": "Bahasa Indonesia",
+  "umur": 38,
+  "pengalaman_tahun": 12
+},
+{
+  "_id": {
+    "$oid": "68476886f36e5726236c4bd2"
+  },
+  "nama": "Pak Budi",
+  "mapel": "Fisika",
+  "umur": 50,
+  "pengalaman_tahun": 25
+},
+{
+  "_id": {
+    "$oid": "68476886f36e5726236c4bd3"
+  },
+  "nama": "Bu Wati",
+  "mapel": "Biologi",
+  "umur": 29,
+  "pengalaman_tahun": 5
+},
+{
+  "_id": {
+    "$oid": "68476886f36e5726236c4bd4"
+  },
+  "nama": "Pak Deni",
+  "mapel": "Kimia",
+  "umur": 33,
+  "pengalaman_tahun": 8
+}]
