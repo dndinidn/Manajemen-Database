@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6846eb80e0e95b637d6c4bd3"
+  },
+  "mata_pelajaran": "biologi",
+  "kode_mapel": "BIO202"
+},
+{
+  "_id": {
+    "$oid": "6846ec1ae0e95b637d6c4bd4"
+  },
+  "mata_pelajaran": "matematika",
+  "kode_mapel": "MTK101"
+}]
